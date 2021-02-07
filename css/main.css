@@ -33,6 +33,14 @@ footer {
     font-size: .8em;
 }
 
+.highlight{
+    font-style: bold;
+}
+
+.post-date{
+    text-align: right
+}
+
 ul.posts { 
     margin: 20px auto 40px; 
     font-size: 1.5em;
