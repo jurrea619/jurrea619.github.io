@@ -24,9 +24,15 @@ h1 {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 
-h3 {
-    text-align: right
+.blog-title{
+    display: inline-flex;
+    width: 50%;
 }
+
+.blog-date {
+    display: inline-flex;
+}
+
 
 p {
     font-size: 1.5em;
